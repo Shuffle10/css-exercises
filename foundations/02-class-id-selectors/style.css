@@ -1,0 +1,22 @@
+.normal{
+    background-color: pink;
+    font-size: 24px;
+    color: black;
+}
+
+#blue-txt{
+    color: blue;
+    font-size: 54px;
+}
+
+.cooler{
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#green-bg{
+    background-color: lightgreen;
+    font-size: 32px;
+    color: black;
+    font-weight: 800;
+}
